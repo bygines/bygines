@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="">Ginés</a></h2>
 
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.
+<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a>     </strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.
 </p>
 
 <p>
@@ -11,11 +11,14 @@
 <a href="https://open.spotify.com/user/21xe4s4bw75tqesgjocs7gpay"><img src="https://img.shields.io/badge/-@Ginés%20López-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/21xe4s4bw75tqesgjocs7gpay" alt="Spotify Badge"></a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+    
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/> -->
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'> 
+    
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>    
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/bygines">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
